@@ -10,6 +10,9 @@ function App() {
         <p>
           Hello Docker
         </p>
+        <p>
+          Changed in the feature branch
+        </p>
       </header>
     </div>
   );
